@@ -1,23 +1,16 @@
-# Superheroes
+# Superheros
 *****
-### Author : Name Date
+### Author : Mugo Joseph Wamiti
 ****
 ## Project Description
-Building an API for tracking heroes and their superpowers
+This project is focused on building a simple API using Rails for tracking heroes and their superpowers. The aim of this project is to build a functioning API that conforms to specific guidelines, including having at least three resources, creating relationships between the resources, and adding validations to the HeroPower and Power models. To achieve this, the project requires thorough planning, including deciding on models and relationships, as well as laying out the information on the page. The project should be regularly committed to a private GitHub repository, with the TM added as a contributor for grading purposes. The end result should be a functional API that allows for the tracking of heroes and their superpowers, with appropriate validations and relationships established.
 ******
 
-## SCREENSHOTS
-- link 1
-- link 2
-
-
-********
 ## SetUp Instruction
 ### Requirements
-* [Lang](lang Url)
-* [Framework](Framework URL)
+* [Lang](https://www.ruby-lang.org/en/)
+* [Framework](https://rubyonrails.org/)
 * Text editor eg [Visual Studio Code](https://code.visualstudio.com/download)
-* [Testing Platform](Platform URL)
 
 
 ### Getting Files
@@ -32,31 +25,32 @@ Building an API for tracking heroes and their superpowers
 * Open the folder location on terminal and use the following command to run app:
 
 ## How To Run It
->  $ pip install -r requirements.txt
-To install all requirements
-
-> $ python3 manage.py runserver
-Then run server with the above command
+>  $ To get started with the project, ensure that you have Ruby installed on your system. Then, follow the steps below:
 *****
-## Live Link
-Or you can access the web application directly via this [LINK.](link.com/)
+> $ Clone this repository to your local machine
+*****
+> $ Run bundle install to install all required dependencies
+*****
+> $ Run rails db:migrate to run the migrations and create the necessary database tables
+*****
+> $ Run rails db:seed to generate seed data for the database
+*****
+> $ Run rails s to start the server and run the application
 *****
 ## Dependencies
-- Package Name
-- Package Name
-- Package Name
-- Package Name
+- Ruby
+- Rails
+- Bundler
+- SQLITE
 *****
 ## Technologies Used
-1. HTML
-2. MdBootstrap
-3. HTML
-4. CSS
-5. JavaScript
+1. RAILS
+2. RUBY
+3. API
 *****
 ## Contact Information
-* Email : example@gmail.com
+* Email : wamiti8711@gmail.com
 *****
 ## [License](LICENSE)
 MIT License
-Copyright (c) YEAR Author
+Copyright (c) 2023 Joseph Wamiti
