@@ -8,6 +8,8 @@ The project's main objective is to provide a more transparent, efficient, and co
 The platform also aims to provide a more secure and trustworthy platform for real estate transactions. By using blockchain technology, Yutek provides a tamper-proof and immutable record of all transactions, creating a more transparent and secure process for buyers and sellers.
 Overall, the project statement for Yutek is to disrupt the traditional real estate industry by using blockchain technology to create a more efficient, transparent, and secure platform for buying and selling properties. The platform aims to revolutionize the way real estate transactions are conducted, making them more accessible and affordable for buyers and sellers around the world.
 
+
+https://docs.google.com/document/d/1hypis-JU69QmGZ3FgaKl17iwjdlFOSw5KsxRUEXC7G4/edit#
 ******
 
 ## SetUp Instruction
