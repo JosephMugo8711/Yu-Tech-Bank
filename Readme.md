@@ -1,9 +1,13 @@
-# Superheros
+# Yu-Tech-Bank
 *****
 ### Author : Mugo Joseph Wamiti
 ****
 ## Project Description
-This project is focused on building a simple API using Rails for tracking heroes and their superpowers. The aim of this project is to build a functioning API that conforms to specific guidelines, including having at least three resources, creating relationships between the resources, and adding validations to the HeroPower and Power models. To achieve this, the project requires thorough planning, including deciding on models and relationships, as well as laying out the information on the page. The project should be regularly committed to a private GitHub repository, with the TM added as a contributor for grading purposes. The end result should be a functional API that allows for the tracking of heroes and their superpowers, with appropriate validations and relationships established.
+The project statement for Yutek is to create a blockchain-based real estate platform that simplifies the process of buying and selling properties. The platform aims to streamline real estate transactions by providing a secure, efficient, and transparent platform for buyers, sellers, and real estate agents.Yutek uses blockchain technology to create a decentralized platform that automates many aspects of the real estate transaction process. The platform allows users to list properties for sale, search for properties, and complete transactions using smart contracts.
+The project's main objective is to provide a more transparent, efficient, and cost-effective alternative to traditional real estate transactions. Yutek aims to reduce the cost of real estate transactions by eliminating intermediaries and automating many aspects of the process.
+The platform also aims to provide a more secure and trustworthy platform for real estate transactions. By using blockchain technology, Yutek provides a tamper-proof and immutable record of all transactions, creating a more transparent and secure process for buyers and sellers.
+Overall, the project statement for Yutek is to disrupt the traditional real estate industry by using blockchain technology to create a more efficient, transparent, and secure platform for buying and selling properties. The platform aims to revolutionize the way real estate transactions are conducted, making them more accessible and affordable for buyers and sellers around the world.
+
 ******
 
 ## SetUp Instruction
@@ -47,6 +51,10 @@ This project is focused on building a simple API using Rails for tracking heroes
 1. RAILS
 2. RUBY
 3. API
+4. Vanilla Javascript
+5. Tailwind css
+6. Reactjs
+7. CSS
 *****
 ## Contact Information
 * Email : wamiti8711@gmail.com
