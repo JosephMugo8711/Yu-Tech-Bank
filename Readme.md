@@ -11,6 +11,8 @@ Overall, the project statement for Yutek is to disrupt the traditional real esta
 
 https://docs.google.com/document/d/1hypis-JU69QmGZ3FgaKl17iwjdlFOSw5KsxRUEXC7G4/edit#
 ******
+https://www.figma.com/file/bbTDFJr895vRKqImx8YBtL/Untitled?node-id=0-1&t=aipRe8I07wKtU3Q2-0
+******
 
 ## SetUp Instruction
 ### Requirements
