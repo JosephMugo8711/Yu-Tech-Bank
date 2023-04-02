@@ -39,5 +39,5 @@ The following technologies were used to build the Yu-Tech Bank frontend:
 - Tailwind css
 - React Fonts
 
-## Licence
+## License
 The Yu-Tech Bank frontend is licensed under the [MIT License](https://opensource.org/licenses/MIT).
