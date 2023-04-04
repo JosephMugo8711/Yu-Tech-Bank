@@ -11,7 +11,7 @@ class Users::SessionsController < ApplicationController
     end
 
     def destroy_user
-        # # remove the admin_id from session
+        # # remove the user_id from session
         session.delete(:user_id)
         ## return JSON response
         render json: { message: "Logged out successfully" }, status: :ok
