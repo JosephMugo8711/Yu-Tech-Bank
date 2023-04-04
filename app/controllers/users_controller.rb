@@ -47,6 +47,8 @@ class UsersController < ApplicationController
           render json: { error: "Not authorized" }, status: :unauthorized
         end
     end
+
+    def 
        
 
 
