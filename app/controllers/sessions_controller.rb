@@ -10,7 +10,7 @@ class Users::SessionsController < ApplicationController
         end
     end
 
-    def destroy
+    def destroy_user
         # # remove the admin_id from session
         session.delete(:user_id)
         ## return JSON response
