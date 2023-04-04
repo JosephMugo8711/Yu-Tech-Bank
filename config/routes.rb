@@ -7,6 +7,7 @@ Rails.application.routes.draw do
   # root "articles#index"
 
   post "/login", to: "sessions#create"
+  post "/signup", to: "users#signup"
   get "/me", to: "users#logged_in"
   delete "/logout", to: "sessions#destroy_user"
 
