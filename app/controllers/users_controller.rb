@@ -1,3 +1,6 @@
+require_relative '../models/users'
+
+
 class UsersController < ApplicationController
 
     #Retrieve all users
@@ -48,16 +51,10 @@ class UsersController < ApplicationController
         end
     end
 
-    def 
-       
+  private
 
-
-
-    private
-
-    def user_params
-        params.require(:user).permit(:first_name, :last_name, :email, :phone_number, :password)
-    end
-
+  def user_params
+      params.require(:user).permit(:first_name, :last_name, :email, :phone_number, :password)
+  end
 
 end
