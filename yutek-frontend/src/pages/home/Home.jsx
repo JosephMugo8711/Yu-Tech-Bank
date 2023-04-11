@@ -6,7 +6,7 @@ const Home = () => {
 
   return (
     <div
-      className='flex flex-row py-20 mx-6 justify-center items-center'
+      className='flex flex-row  justify-center items-center'
       style={{
         backgroundImage: `url(${heroBackground})`,
         backgroundSize: 'cover',
@@ -14,10 +14,10 @@ const Home = () => {
         height: '80vh',
       }}
     >
-      <div className="flex-1 pr-12">
+      <div className="flex-1 p-12 pr-12">
         <h1 className='text-4xl text-black font-bold'>Welcome to our Real Estate Website</h1>
         <p className='text-black mt-4'>Find your dream home today</p>
-        <div className="mt-4 p-8">
+        <div className="mt-4">
           <Link
             to="/get-started"
             className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
