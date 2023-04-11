@@ -4,6 +4,7 @@ import Layout from './components/layout/Layout';
 import Home from './pages/home/Home'
 import SignUp from './pages/signup/Signup'
 import Login from './pages/login/Login'
+import Dashboard from './pages/dashboard/Dashboard';
 
 function App() {
   return (
@@ -14,8 +15,9 @@ function App() {
                  <Route index element={<Home/>}/>
                  <Route path='/signup' element={<SignUp/>}/>
                  <Route path='/login' element={<Login/>}/>
+                 <Route path='/dashboard' element={<Dashboard/>}/>
                  {/* <Route path='/about' element={<Aboutus/>}/>
-                 <Route path='/dashboard' element={<DashBoard/>}/>
+                 
                  <Route path='/contactus' element={<ContactUs/>}/>
                  <Route path='/signup' element={<SignUp/>}/>
                  <Route path='/login' element={<Login/>}/> */}

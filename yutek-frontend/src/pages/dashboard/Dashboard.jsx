@@ -2,9 +2,18 @@
 //allows them to update their profile picture, phone number, and address.
 
 import React from "react";
+import DashboardNavbar from "../../components/navbar/DashboardNavbar";
 
 const Dashboard = () => {
     return(
-        
+
+        <div className="dashboard">
+            <DashboardNavbar />
+
+
+        </div>
+
     )
 }
+
+export default Dashboard
