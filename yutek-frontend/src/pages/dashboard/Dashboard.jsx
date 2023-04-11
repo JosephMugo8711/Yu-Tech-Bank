@@ -3,12 +3,14 @@
 
 import React from "react";
 import DashboardNavbar from "../../components/navbar/DashboardNavbar";
+//import ProfilePage from "../profile/ProfilePage";
 
 const Dashboard = () => {
     return(
 
         <div className="dashboard">
             <DashboardNavbar />
+            {/* <ProfilePage /> */}
 
 
         </div>
