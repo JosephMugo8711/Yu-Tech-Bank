@@ -5,11 +5,6 @@ const DashboardNavbar = () => {
   return (
     <nav className="flex items-center justify-between flex-wrap bg-[#282828] p-6">
       <div className="flex items-center flex-shrink-0 text-white mr-6">
-        {/* <img
-          className="h-8 w-8 mr-2"
-          src="path/to/logo.png"
-          alt="Logo"
-        /> */}
         <span className="font-semibold text-xl tracking-tight">
         <p className='ml-6 flex flex-row items-center font-semibold text-white text-2xl'>Yutek <span className='text-red-500 ml-1 mr-1'>< BiHome size={50} /></span> Bank</p>
         </span>
@@ -52,11 +47,13 @@ const DashboardNavbar = () => {
             </div>
           </form>
         </div>
-        <div className="ml-auto">
-          <button className="bg-white text-blue-500 rounded-md px-4 py-2 mt-4 lg:mt-0">
+        <div className="ml-auto flex items-center">
+        <img src="https://ir.propy.com/images/avatars/6421e871a9b697000184c5f2/be7bc556-93b6-4d6c-832c-78eaa433c019.jpg?width=50&amp;height=50&amp;scale=both&amp;mode=crop" alt="Profile" className="rounded-full w-10 h-10 object-cover mr-10" />
+        <button className="bg-white text-blue-500 rounded-md px-4 py-2 mt-4 lg:mt-0">
             Logout
-          </button>
+        </button>
         </div>
+
       </div>
     </nav>
   );
